@@ -1,0 +1,7 @@
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\bin\Debug\Logger.exe.config
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\bin\Debug\Logger.exe
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\bin\Debug\Logger.pdb
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\obj\Debug\Logger.exe
+D:\YouTube\C# Desing Patterns Video\Singleton pattern\Logger\Logger\Logger\obj\Debug\Logger.pdb
